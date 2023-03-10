@@ -2,7 +2,7 @@
 <h3 align="center">Back-End DEV C# .NET</h3>
 
 <br>
-<h3 allign = "center"> I'm passionate about learning new technologies and tools that allow me to create more efficient and higher quality solutions, as well as facing challenges that allow me to grow personally and professionally. I am a results-oriented person, with skills to lead projects and seek innovative solutions. I am committed to continuous improvement and constant learning. </h3>
+<h3 align = "center"> I'm passionate about learning new technologies and tools that allow me to create more efficient and higher quality solutions, as well as facing challenges that allow me to grow personally and professionally. I am a results-oriented person, with skills to lead projects and seek innovative solutions. I am committed to continuous improvement and constant learning. </h3>
 <div id="header" align="center">
 <br>
   
