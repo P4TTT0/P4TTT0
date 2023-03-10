@@ -5,6 +5,8 @@
   <img src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" style="width:100%;height:auto;" />
 </div>
 
+<p allign = "justify"> I am passionate about learning new technologies and tools that allow me to create more efficient and higher quality solutions, as well as facing challenges that allow me to grow personally and professionally. I am a results-oriented person, with skills to lead projects and seek innovative solutions. I am committed to continuous improvement and constant learning. </p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=p4ttt0&label=Profile%20views&color=0e75b6&style=flat" alt="p4ttt0" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p4ttt0" alt="p4ttt0" /></a> </p>
