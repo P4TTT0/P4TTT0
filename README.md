@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Patricio Perez Cardenal</h1>
 <h3 align="center">Back-End DEV C# .NET</h3>
 
+<div class="tenor-gif-embed" data-postid="25385487" data-share-method="host" data-aspect-ratio="1.12281" data-width="100%"><a href="https://tenor.com/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487">Programming Computer Frog GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p4ttt0&label=Profile%20views&color=0e75b6&style=flat" alt="p4ttt0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p4ttt0" alt="p4ttt0" /></a> </p>
