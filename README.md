@@ -1,11 +1,30 @@
-### ¡Hello! ✨
+<img width="1584" height="396" alt="p4ttt0-banner" src="https://github.com/user-attachments/assets/c4463faf-60ef-447c-8c5f-4dfbfab3bda8" />
 
-- 🌱 Software developer and student at UTN-FRA.
-- 💎 Back-end dev at SumatoId
-- 💡 I have knowledge in C#, .NET, Blazor, TypeScript, Angular, SQLServer, Unity Engine and more.
-- 📫 How to reach me: patricio.perezcardenal@gmail.com
+## About me.
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![.Blazor](https://img.shields.io/badge/blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Blazor](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+I am a **Backend & Full Stack Engineer** specializing in the **.NET ecosystem**, high-performance distributed systems, and real-time data pipelines. Driven by clean architecture (SOLID) and system performance optimization.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p4ttt0&hide=C&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 🖥️ **Current Role:** Backend / Full Stack Engineer at **Sumato-Id**
+- 🎓 **Education:** Computer Programming Degree (UTN-FRA) 
+- ⚙️ **Core Focus:** Asynchronous programming, Edge Computing, IoT infrastructure
+- 📫 **Contact:** patricio.perezcardenal@gmail.com
+
+## Latest projects.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/P4TTT0/Unity-Flappy-Bird-Clone">Flappy Bird Clone</a></h3>
+      <img src="https://github.com/user-attachments/assets/ee1bfc18-c6cb-46e2-ac9b-54221ad60353" alt="Flappy Bird Gameplay" width="100%" />
+      <p>A desktop clone of the classic game built using the Unity Engine, focusing on state management, collision physics, and object pooling patterns.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/P4TTT0/Portfolio-Flor-CMS">Flor's Portfolio (Work in progres...)</a></h3>
+      <img src="https://github.com/user-attachments/assets/8fb65c73-856e-4902-a4ed-b305a66dbf9d" alt="Portfolio Preview" width="100%" />
+      <p>A responsive SPA built with React, Next.js, Tailwind CSS, Sanity CMS, and deployed on Vercel. Features a minimalist UI blended with a modern skeuomorphic aesthetic—incorporating real-world textures like grid paper, corkboards, and polaroid-style elements.</p>
+    </td>
+  </tr>
+</table>
+
+
 
