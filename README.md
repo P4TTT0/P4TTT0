@@ -21,7 +21,7 @@ I am a **Backend & Full Stack Engineer** specializing in the **.NET ecosystem**,
     <td width="50%" valign="top">
       <h3><a href="https://github.com/P4TTT0/Portfolio-Flor-Frontend">Flor's Portfolio (Work in progres...)</a></h3>
       <img src="https://github.com/user-attachments/assets/8fb65c73-856e-4902-a4ed-b305a66dbf9d" alt="Portfolio Preview" width="100%" />
-      <p>A responsive SPA built with React, Next.js, Tailwind CSS, Sanity CMS, and deployed on Vercel. Features a minimalist UI blended with a modern skeuomorphic aesthetic—incorporating real-world textures like grid paper, corkboards, and polaroid-style elements.</p>
+      <p>A single-page portfolio site for Florencia Acevedo, a national radio host (Locutora Nacional), built with Next.js 16 and Sanity CMS.</p>
     </td>
   </tr>
 </table>
