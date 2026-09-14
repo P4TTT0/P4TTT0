@@ -4,7 +4,7 @@
 
 I am a **Backend & Full Stack Engineer** specializing in the **.NET ecosystem**, high-performance distributed systems, and real-time data pipelines. Driven by clean architecture (SOLID) and system performance optimization.
 
-- 🖥️ **Current Role:** Backend / Full Stack Engineer at **Sumato-Id**
+- 🖥️ **Current Role:** Backend Engineer at **Tecnom**
 - 🎓 **Education:** Computer Programming Degree (UTN-FRA) 
 - ⚙️ **Core Focus:** Asynchronous programming, Edge Computing, IoT infrastructure
 - 📫 **Contact:** patricio.perezcardenal@gmail.com
