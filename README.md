@@ -14,21 +14,21 @@ I am a **Backend & Full Stack Engineer** specializing in the **.NET ecosystem**,
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h3><a href="https://github.com/P4TTT0/howcommitted">howcommitted</a></h3>
+      <h3><a href="https://www.howcommitted.com/">howcommitted</a></h3>
       <a href="https://www.howcommitted.com/"><img src="assets/howcommitted.gif" alt="A contribution history playing back in howcommitted" width="100%" /></a>
-      <p>Type a GitHub username and watch its contribution history play back as sound and motion, year by year. Built with Next.js 16, GSAP and Tone.js. <a href="https://www.howcommitted.com/">Try it at howcommitted.com</a>.</p>
+      <p><a href="https://github.com/P4TTT0/howcommitted">View repository →</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/P4TTT0/Portfolio-Flor-Frontend">Flor's Portfolio (Work in progres...)</a></h3>
-      <img src="https://github.com/user-attachments/assets/8fb65c73-856e-4902-a4ed-b305a66dbf9d" alt="Portfolio Preview" width="100%" />
-      <p>A single-page portfolio site for Florencia Acevedo, a national radio host (Locutora Nacional), built with Next.js 16 and Sanity CMS.</p>
+      <h3><a href="https://florenciaacevedo.com/">Flor's Portfolio (Work in progres...)</a></h3>
+      <a href="https://florenciaacevedo.com/"><img src="https://github.com/user-attachments/assets/8fb65c73-856e-4902-a4ed-b305a66dbf9d" alt="Portfolio Preview" width="100%" /></a>
+      <p><a href="https://github.com/P4TTT0/Portfolio-Flor-Frontend">View repository →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/P4TTT0/Unity-Flappy-Bird-Clone">Flappy Bird Clone</a></h3>
-      <img src="https://github.com/user-attachments/assets/ee1bfc18-c6cb-46e2-ac9b-54221ad60353" alt="Flappy Bird Gameplay" width="100%" />
-      <p>A desktop clone of the classic game built using the Unity Engine, focusing on state management, collision physics, and object pooling patterns.</p>
+      <h3><a href="https://p4ttt0.itch.io/flappy-bird-clone">Flappy Bird Clone</a></h3>
+      <a href="https://p4ttt0.itch.io/flappy-bird-clone"><img src="https://github.com/user-attachments/assets/ee1bfc18-c6cb-46e2-ac9b-54221ad60353" alt="Flappy Bird Gameplay" width="100%" /></a>
+      <p><a href="https://github.com/P4TTT0/Unity-Flappy-Bird-Clone">View repository →</a></p>
     </td>
   </tr>
 </table>
