@@ -2,7 +2,7 @@
 
 ## About me.
 
-I am a **Backend & Full Stack Engineer** specializing in the **.NET ecosystem**, high-performance distributed systems, and real-time data pipelines. Driven by clean architecture (SOLID) and system performance optimization.
+I am a **Full Stack Engineer** specializing in the **.NET ecosystem**, high-performance distributed systems, and real-time data pipelines. Driven by clean architecture (SOLID) and system performance optimization.
 
 - 🖥️ **Current Role:** Backend Engineer at **Tecnom**
 - 🎓 **Education:** Computer Programming Degree (UTN-FRA) 
