@@ -21,9 +21,8 @@ I am a **Full Stack Engineer** specializing in the **.NET ecosystem**, high-perf
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://florenciaacevedo.com/">Flor's Portfolio (Work in progres...)</a></h3>
+      <h3><a href="https://florenciaacevedo.com/">Flor's Portfolio</a></h3>
       <a href="https://florenciaacevedo.com/"><img src="https://github.com/user-attachments/assets/8fb65c73-856e-4902-a4ed-b305a66dbf9d" alt="Portfolio Preview" width="100%" /></a>
-      <p><a href="https://github.com/P4TTT0/Portfolio-Flor-Frontend">View repository →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://p4ttt0.itch.io/flappy-bird-clone">Flappy Bird Clone</a></h3>
